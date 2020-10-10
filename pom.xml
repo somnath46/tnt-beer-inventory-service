@@ -6,6 +6,7 @@
         <groupId>com.tnt</groupId>
         <artifactId>tnt-brewery-bom</artifactId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>parent/pom.xml</relativePath>
     </parent>
     <groupId>com.tnt.beer.inventory</groupId>
     <artifactId>tnt-beer-inventory-service</artifactId>
